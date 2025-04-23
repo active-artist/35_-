@@ -10,11 +10,11 @@
 ### 二、技术栈
 SpringBoot + Vue
 #### 后端
-SpringBoot + SpringMVC + Mybatis
-开发工具：IDEA
+SpringBoot + SpringMVC + Mybatis<br>
+**开发工具**：IDEA
 #### 前端
-Vue + Axios + Router
-开发工具：Vscode
+Vue + Axios + Router<br>
+**开发工具**：Vscode
 #### 数据库
 MySOL
 
