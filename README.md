@@ -11,8 +11,13 @@
 SpringBoot + Vue
 #### 后端
 SpringBoot + SpringMVC + Mybatis
+开发工具：IDEA
 #### 前端
 Vue + Axios + Router
+开发工具：Vscode
+#### 数据库
+MySOL
+
 
 ### 三、需求分析
 角色：管理员、用户
