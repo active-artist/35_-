@@ -1,5 +1,4 @@
-node_modules/
-dist/
+node_modules
 
 *.suo
 *.ntvs*
@@ -10,10 +9,6 @@ dist/
 
 # IDE
 .vscode
-.idea
-*.iws
-*.iml
-*.ipr
 
 ### JRebel ###
 rebel.
